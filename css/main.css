@@ -1,0 +1,15 @@
+.dashboard{
+    float: left;
+    width: 70%;
+    padding-left: 30px;
+}
+.left-menu{
+    float: left;
+    width: 30%;
+}
+.orders-title{
+    text-align: center;
+}
+.add-order__btn{
+    margin-top: 15px;
+}
